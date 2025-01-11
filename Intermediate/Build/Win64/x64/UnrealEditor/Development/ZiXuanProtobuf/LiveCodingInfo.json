@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ZiXuanProtobuf.cpp.obj": [
+			"ProtobufSubsystem.gen.cpp.obj",
+			"ZiXuanProtobuf.init.gen.cpp.obj",
+			"ProtobufSubsystem.cpp.obj",
+			"ZiXuanProtobuf.cpp.obj"
+		]
+	}
+}

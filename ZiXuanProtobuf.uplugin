@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ZiXuanProtobuf",
+	"Description": "A protobuf generate and import plugin!",
+	"Category": "GoogleProtobuf",
+	"CreatedBy": "Samson",
+	"CreatedByURL": "https://space.bilibili.com/276309020",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ZiXuanProtobuf",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	],
+	"SupportURL": ""
+}

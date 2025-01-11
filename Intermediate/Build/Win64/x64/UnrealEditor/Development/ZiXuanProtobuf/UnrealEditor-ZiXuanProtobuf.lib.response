@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ZiXuanProtobuf.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\UnrealWork\5.2\TD_Game\TDGame\Intermediate\Build\Win64\x64\TD_ProEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"F:\UnrealWork\5.2\TD_Game\TDGame\Plugins\ZiXuanProtobuf\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZiXuanProtobuf\Module.ZiXuanProtobuf.cpp.obj"
+"F:\UnrealWork\5.2\TD_Game\TDGame\Plugins\ZiXuanProtobuf\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZiXuanProtobuf\Phone.pb.cc.obj"
+"F:\UnrealWork\5.2\TD_Game\TDGame\Plugins\ZiXuanProtobuf\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZiXuanProtobuf\Default.rc2.res"
+/OUT:"F:\UnrealWork\5.2\TD_Game\TDGame\Plugins\ZiXuanProtobuf\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZiXuanProtobuf\UnrealEditor-ZiXuanProtobuf.lib"
