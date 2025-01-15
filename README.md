@@ -1,6 +1,6 @@
 # ZiXuanProtobuf
 
-A Unreal plugin for protobuf V29.1
+A Unreal plugin for protobuf V30.0
 
 Now:
 
