@@ -20,4 +20,10 @@ Tutorial:
  
  https://zhuanlan.zhihu.com/p/9885169028
 
- 
+---------------------------------------------------------------------------------
+(5.0 5.1 5.3 not test)
+Unfixed
+In 5.4 5.5 Error
+Error LNK2001 : unresolved external symbol "class google::protobuf::internal::GlobalEmptyString const google::protobuf::internal::fixed_address_empty_string" (?fixed_address_empty_string@internal@protobuf@google@@3VGlobalEmptyString@123@B)
+11>UnrealEditor-ZiXuanProtobuf.dll: Error LNK1120 : 1 unresolved externals
+---------------------------------------------------------------------------------
