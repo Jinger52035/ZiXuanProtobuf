@@ -14,7 +14,7 @@ Now:
 
 Releases:
 
-A Unreal plugin for protobuf V30.0
+A Unreal plugin for protobuf V32.0
 
 Now:
 
@@ -22,7 +22,7 @@ Now:
   
   Support Language: C++
   
-  Support UnrealEngine Version: 5.2
+  Support UnrealEngine Version: 5.6
 
 
 Tutorial:
