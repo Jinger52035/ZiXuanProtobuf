@@ -70,6 +70,6 @@ not good to solve error
 find strip.h
 - defined(STRIP_LOG) && STRIP_LOG
 + true
-+ find nullstream.h
+find nullstream.h
 -[[noreturn]] ~NullStreamFatal() {_exit(1)}
 + ~NullStreamFatal() {}
