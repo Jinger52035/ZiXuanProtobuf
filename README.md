@@ -50,6 +50,19 @@ UnFixed:
 Error LNK2001 : unresolved external symbol "class google::protobuf::internal::GlobalEmptyString const google::protobuf::internal::fixed_address_empty_string" (?fixed_address_empty_string@internal@protobuf@google@@3VGlobalEmptyString@123@B) 11>UnrealEditor-ZiXuanProtobuf.dll: Error LNK1120 : 1 unresolved externals
 
 ---
+if you meet errot like this 
+
+undefined symbol: absl::lts_20240116::log_internal::LogMessage& absl::lts_20240116::log_internal::LogMessage::operator
+
+not good to solve error
+change strip.h
+
+if defined(STRIP_LOG) && STRIP_LOG -> true
+
+nullstream.h
+
+[[noreturn]] ~NullStreamFatal() {_exit(1)} -> ~NullStreamFatal() {}
+---
 
 # Tutorial:
 
