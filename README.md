@@ -26,6 +26,12 @@ protobuf V32.0 Support Platform: Win64 Support Language: C++ Support UnrealEngin
 | 5.5  | Not test |/|/|/|/|/|
 | 5.6  | Support |/|/|/|/|/|
 
+Same data save size and load and save speed(Simple Test)
+
+|  Category   | protobuf | sav(UESaveGame)| Json | 
+|  ----  | ----  | ---- | ---- | 
+| Save  | 27.1 MB |184 MB|290 MB|
+| Speed  | 1s |6s|13s|
 ---
 
 protobuf V30.0 Support Platform: Win64 Support Language: C++ Support UnrealEngine Version: 5.2
