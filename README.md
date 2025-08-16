@@ -26,6 +26,8 @@ protobuf V32.0 Support Platform: Win64 Support Language: C++ Support UnrealEngin
 | 5.5  | Not test |/|/|/|/|/|
 | 5.6  | Support |/|/|/|/|/|
 
+---
+
 protobuf V30.0 Support Platform: Win64 Support Language: C++ Support UnrealEngine Version: 5.2
 
 UnFixed:
